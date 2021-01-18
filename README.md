@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+## Project Overview
+This project is intended to provide a recommendation for travelling based on selected temperature range. A customer can input the minimum and maximum temperature that they would like and the project will present all the cities that meet the input temperature range as well as the weather information and location. Customer can choose specific cities based on the information provided, which is represented via the goolge maps platform as well as a table. In addition, the project will also calculate a travel route for the selected cities as well as their weather information.
